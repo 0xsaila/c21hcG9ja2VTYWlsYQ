@@ -12,74 +12,82 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Saila =====
-[1]Saila       |08:09:34 | 15-10-2026| login OK @mysailaa | score=1190 rank=5256
-[1]Saila       |08:09:34 | 15-10-2026| serverTime=2026-10-15T08:09:34.000Z local=2026-10-15T08:09:34.807Z
+[1]Saila       |09:01:37 | 17-10-2026| login OK @mysailaa | score=1250 rank=5228
+[1]Saila       |09:01:37 | 17-10-2026| serverTime=2026-10-17T09:01:37.000Z local=2026-10-17T09:01:37.613Z
 --> [1]Saila menjalankan: Claim Daily
-[1]Saila       |08:09:35 | 15-10-2026| daily: OK +10 poin score=1200
---> [1]Saila menjalankan: Auto All Tasks (5 pending)
-[1]Saila       |08:09:37 | 15-10-2026| [1/5] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/mysailaa/status/2110643727592928504
-[1]Saila       |08:09:37 | 15-10-2026| delay 10s...
-[1]Saila       |08:09:50 | 15-10-2026| [2/5] ec8513a4 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109
-[1]Saila       |08:09:50 | 15-10-2026| delay 10s...
-[1]Saila       |08:10:02 | 15-10-2026| [3/5] 1e029da8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/mysailaa/status/2110644086586813550
-[1]Saila       |08:10:02 | 15-10-2026| delay 10s...
-[1]Saila       |08:10:14 | 15-10-2026| [4/5] e41210a5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/mysailaa/status/2110643797296357783
-[1]Saila       |08:10:14 | 15-10-2026| delay 10s...
-[1]Saila       |08:10:26 | 15-10-2026| [5/5] 6ee55c06 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/mysailaa/status/2110644129610687433
-[1]Saila       |08:10:26 | 15-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Saila       |08:10:29 | 15-10-2026| [1/1] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174412101091 | proof=https://x.com/mysailaa/status/2110644116938571549
+[1]Saila       |09:01:38 | 17-10-2026| daily: OK +10 poin score=1260
+--> [1]Saila menjalankan: Auto All Tasks (9 pending)
+[1]Saila       |09:01:40 | 17-10-2026| [1/9] 394defc6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/mysailaa/status/2111381513892141404
+[1]Saila       |09:01:40 | 17-10-2026| delay 10s...
+[1]Saila       |09:01:53 | 17-10-2026| [2/9] e5b8202e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/mysailaa/status/2111381870694332003
+[1]Saila       |09:01:53 | 17-10-2026| delay 10s...
+[1]Saila       |09:02:05 | 17-10-2026| [3/9] 0609cffc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/mysailaa/status/2111381938633292450
+[1]Saila       |09:02:05 | 17-10-2026| delay 10s...
+[1]Saila       |09:02:17 | 17-10-2026| [4/9] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/mysailaa/status/2111381868469637902
+[1]Saila       |09:02:17 | 17-10-2026| delay 10s...
+[1]Saila       |09:02:30 | 17-10-2026| [5/9] 88c776e0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/mysailaa/status/2111382011895694816
+[1]Saila       |09:02:30 | 17-10-2026| delay 10s...
+[1]Saila       |09:02:42 | 17-10-2026| [6/9] 24fb0a1f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/mysailaa/status/2111381977206751260
+[1]Saila       |09:02:42 | 17-10-2026| delay 10s...
+[1]Saila       |09:02:54 | 17-10-2026| [7/9] f482983d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/mysailaa/status/2111382023306609658
+[1]Saila       |09:02:54 | 17-10-2026| delay 10s...
+[1]Saila       |09:03:06 | 17-10-2026| [8/9] 3e6dc4ef (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/mysailaa/status/2111382091648392270
+[1]Saila       |09:03:06 | 17-10-2026| delay 10s...
+[1]Saila       |09:03:18 | 17-10-2026| [9/9] cc2ba95b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/mysailaa/status/2111381978272201710
+[1]Saila       |09:03:18 | 17-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Saila       |09:03:20 | 17-10-2026| [1/1] 394defc6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2110706688701735 | proof=https://x.com/mysailaa/status/2111382112596923601
 --> [1]Saila menjalankan: Watch Anime
-[1]Saila       |08:10:30 | 15-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Saila       |08:10:30 | 15-10-2026| watch [1/3] farming oshi-captains-hat...
+[1]Saila       |09:03:20 | 17-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Saila       |09:03:20 | 17-10-2026| watch [1/3] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Saila       |08:10:31 | 15-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Saila       |08:10:36 | 15-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Saila       |08:10:38 | 15-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Saila       |08:10:43 | 15-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Saila       |08:10:45 | 15-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Saila       |09:03:22 | 17-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Saila       |09:03:27 | 17-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Saila       |09:03:29 | 17-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Saila       |09:03:34 | 17-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Saila       |09:03:36 | 17-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Saila menjalankan: Read Article
-[1]Saila       |08:10:46 | 15-10-2026| news: 25/26 artikel selesai dibaca
-[1]Saila       |08:10:47 | 15-10-2026| mint eligibility: {"userId":"1716752719195840512","youtube":{"url":"https://www.youtube.com/@sailamaliva","status":"submitted","revision":"96544803-5b03-4777-bd40-33e0789ced16","submittedAt":1791667570,"reviewedAt":179
-[1]Saila       |08:10:54 | 15-10-2026| news [1/1] 100-friends-connected-by-what-we-love: OK completed=26
+[1]Saila       |09:03:38 | 17-10-2026| news: 26/27 artikel selesai dibaca
+[1]Saila       |09:03:38 | 17-10-2026| mint eligibility: {"userId":"1716752719195840512","youtube":{"url":"https://www.youtube.com/@sailamaliva","status":"submitted","revision":"96544803-5b03-4777-bd40-33e0789ced16","submittedAt":1791667570,"reviewedAt":179
+[1]Saila       |09:03:45 | 17-10-2026| news [1/1] smart-pocket-800000-battles: OK completed=27
 --> [1]Saila menjalankan: Quiz Anime
-[1]Saila       |08:10:57 | 15-10-2026| quiz ep1: sudah dijawab
-[1]Saila       |08:10:57 | 15-10-2026| quiz ep2: sudah dijawab
-[1]Saila       |08:10:57 | 15-10-2026| quiz ep3: sudah dijawab
-[1]Saila       |08:10:57 | 15-10-2026| quiz ep4: sudah dijawab
-[1]Saila       |08:10:57 | 15-10-2026| quiz ep5: sudah dijawab
-[1]Saila       |08:10:57 | 15-10-2026| quiz ep6: sudah dijawab
+[1]Saila       |09:03:48 | 17-10-2026| quiz ep1: sudah dijawab
+[1]Saila       |09:03:48 | 17-10-2026| quiz ep2: sudah dijawab
+[1]Saila       |09:03:48 | 17-10-2026| quiz ep3: sudah dijawab
+[1]Saila       |09:03:48 | 17-10-2026| quiz ep4: sudah dijawab
+[1]Saila       |09:03:48 | 17-10-2026| quiz ep5: sudah dijawab
+[1]Saila       |09:03:48 | 17-10-2026| quiz ep6: sudah dijawab
 --> [1]Saila menjalankan: Music Missions (realtime, bisa lama!)
-[1]Saila       |08:10:59 | 15-10-2026| music: kedua misi sudah tercapai, stop
-[1]Saila       |08:10:59 | 15-10-2026| mission music-listens-10: sudah diklaim
-[1]Saila       |08:10:59 | 15-10-2026| mission music-minutes-30: sudah diklaim
-[1]Saila       |08:10:59 | 15-10-2026| mission anime-completed-3: sudah diklaim
+[1]Saila       |09:03:50 | 17-10-2026| music: kedua misi sudah tercapai, stop
+[1]Saila       |09:03:51 | 17-10-2026| mission music-listens-10: sudah diklaim
+[1]Saila       |09:03:51 | 17-10-2026| mission music-minutes-30: sudah diklaim
+[1]Saila       |09:03:51 | 17-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Saila menjalankan: Claim Missions
-[1]Saila       |08:11:00 | 15-10-2026| mission music-listens-10: sudah diklaim
-[1]Saila       |08:11:00 | 15-10-2026| mission music-minutes-30: sudah diklaim
-[1]Saila       |08:11:00 | 15-10-2026| mission anime-completed-3: sudah diklaim
+[1]Saila       |09:03:51 | 17-10-2026| mission music-listens-10: sudah diklaim
+[1]Saila       |09:03:51 | 17-10-2026| mission music-minutes-30: sudah diklaim
+[1]Saila       |09:03:51 | 17-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Saila menjalankan: Check Eligibility
 
 --- eligibility [1]Saila ---
-  @mysailaa | score=1190 rank=5256
-  tasks    [###################-] 72/77
+  @mysailaa | score=1250 rank=5228
+  tasks    [##################--] 70/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
   watch    [####################] 18/17
   music    [####################] 11/11
-  artikel  [####################] 26/26
+  artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Saila menjalankan: Read Manga
-[1]Saila       |08:11:04 | 15-10-2026| manga: 0/13 chapter belum completed
+[1]Saila       |09:03:55 | 17-10-2026| manga: 0/13 chapter belum completed
 --> [1]Saila menjalankan: Get Gift
-[1]Saila       |08:11:05 | 15-10-2026| gift: 0/4 belum diterima
+[1]Saila       |09:03:56 | 17-10-2026| gift: 0/4 belum diterima
 --> [1]Saila menjalankan: Setup Profile
-[1]Saila       |08:11:05 | 15-10-2026| profile: bio="https://x.com/mysailaa" fav=yuki rewardAt=1791687979
-[1]Saila       |08:11:05 | 15-10-2026| profile: bonus sudah diklaim, skip
+[1]Saila       |09:03:56 | 17-10-2026| profile: bio="https://x.com/mysailaa" fav=yuki rewardAt=1791687979
+[1]Saila       |09:03:56 | 17-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Saila menjalankan: Bind Wallet
-[1]Saila       |08:11:06 | 15-10-2026| wallet: sudah terikat FwvxqPLVnU... (solana)
+[1]Saila       |09:03:57 | 17-10-2026| wallet: sudah terikat FwvxqPLVnU... (solana)
 
 == RINGKASAN ==
-- Saila: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Saila: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
